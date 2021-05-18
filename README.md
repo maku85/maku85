@@ -17,6 +17,7 @@
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-374759?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-bd012d?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1389fd?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-de33a6?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-303030?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-418b21?style=flat-square&logo=mongodb&logoColor=white" />
