@@ -1,5 +1,5 @@
 ## Ciao! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>Hi, I'm Mauro Cunsolo, a passionate Backend Developer from Italy.</p>
+<p>I'm Mauro Cunsolo, a passionate Backend Developer from Italy 🇮🇹.</p>
 
 ### About me
 - 🔭 I’m currently working on an awesome project :wink:
@@ -54,8 +54,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maku85" alt="Mauro's GitHub Stats" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=maku85" alt="Mauro's GitHub Stats" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maku85)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
