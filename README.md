@@ -1,4 +1,4 @@
-## Ciao! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Ciao! <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 <p>I'm Mauro Cunsolo, a passionate Backend Developer from Italy 🇮🇹.</p>
 
 ### About me
