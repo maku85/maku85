@@ -8,6 +8,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he | him
 
+[![wakatime](https://wakatime.com/badge/user/c1624d64-5763-427d-b6f9-7711d4829a09.svg)](https://wakatime.com/@c1624d64-5763-427d-b6f9-7711d4829a09)
+
 #### Technologies & Tools
 <div align="center">  
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
