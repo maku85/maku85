@@ -15,7 +15,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
-<img alt="Expressjs" src="https://img.shields.io/badge/-Express.js-f5f5f5?style=flat-square&logo=node-dot-js&logoColor=black" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Express.js-f5f5f5?style=flat-square&logo=node-dot-js&logoColor=black" />
+  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-f5f5f5?style=flat-square&logo=node-dot-js&logoColor=black" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt-dot-js&logoColor=white" />
@@ -26,11 +27,10 @@
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </div>
 
 #### Where to find me
