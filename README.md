@@ -35,19 +35,16 @@
 
 #### Where to find me
 <div align="center">  
-  <a href="https://github.com/maku85" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-302f2f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mauro-cunsolo" target="_blank">
+  <a href="https://www.linkedin.com/in/mauro-cunsolo" target="_blank" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-056aae?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/maku85">
+  <a href="https://dev.to/maku85" target="_blank">
     <img alt="Dev.to" src="https://img.shields.io/badge/-Dev.to-000000?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
   </a>
-  <a href="https://codepen.io/maku85">
+  <a href="https://codepen.io/maku85" target="_blank">
     <img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?&style=for-the-badge&logo=codepen&logoColor=white">
   </a>
-  <a href="https://www.maurocunsolo.com">
+  <a href="https://maku85.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-c0372e?&style=for-the-badge&logo=website&logoColor=white">
   </a>
 </div>
