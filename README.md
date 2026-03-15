@@ -8,9 +8,9 @@
 ---
 
 ### 🧑‍💻 About me
-- 🔭 I’m currently working on an awesome project :wink:
-- 👯 I’m looking to collaborate on opensource projects
-- 🌱 I’m currently learning Typescript and Flutter
+- 🔭 I'm working on some open source projects of my own and on an interesting product :wink:
+- 👯 I am always open to new proposals and collaborative projects
+- 🌱 I'm improving my python knowledge and I'm studying a bit of Next.js
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he | him
 
@@ -22,9 +22,10 @@
 <div align="center">  
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
-  <img alt="Expressjs" src="https://img.shields.io/badge/-Express.js-f5f5f5?style=flat-square&logo=node-dot-js&logoColor=black" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nuxt-dot-js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffdf76?style=flat-square&logo=python&logoColor=004d7a" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Express.js-f5f5f5?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -33,7 +34,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </div>
 
@@ -50,7 +51,7 @@
   <a href="https://codepen.io/maku85" target="_blank">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?&style=for-the-badge&logo=codepen&logoColor=white">
   </a>
-  <a href="https://maku85.github.io" target="_blank">
+  <a href="https://www.maurocunsolo.xyz" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-c0372e?&style=for-the-badge&logo=website&logoColor=white">
   </a>
 </div>
